@@ -1,0 +1,13 @@
+{
+    "id": "com.yuxiaviation.packages",
+    "name": "VRChat Aerospace University Packages",
+    "description": "VRChat Aerospace University Packages Index",
+    "url": "https://vrcau.github.io/packages-index/vrm-index.json",
+    "author": {
+        "name": "VRChat Aerospace University",
+        "url": "https://yuxiaviation.com/"
+    },
+    "githubRepos": [
+        "vrcau/VAU320"
+    ]
+}
