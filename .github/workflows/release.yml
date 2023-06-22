@@ -1,6 +1,7 @@
 name: Build Repo Listing
 
 env:
+  listPublishDirectory: web
   pathToCi: ci
 
 on:
