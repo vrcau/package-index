@@ -9,6 +9,7 @@
     },
     "githubRepos": [
         "vrcau/VAU320",
-        "vrcau/VirtualBridge-Udon"
+        "vrcau/VirtualBridge-Udon",
+        "vrcau/FlightSafetyTimer"
     ]
 }
