@@ -11,6 +11,7 @@
         "vrcau/VAU320",
         "vrcau/VirtualBridge-Udon",
         "vrcau/FlightSafetyTimer",
-        "vrcau/FlatRadar"
+        "vrcau/FlatRadar",
+        "vrcau/Security-Check"
     ]
 }
