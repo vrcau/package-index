@@ -12,6 +12,7 @@
         "vrcau/VirtualBridge-Udon",
         "vrcau/FlightSafetyTimer",
         "vrcau/FlatRadar",
-        "vrcau/Security-Check"
+        "vrcau/Security-Check",
+        "vrcau/desktop-interaction"
     ]
 }
