@@ -13,6 +13,8 @@
         "vrcau/FlightSafetyTimer",
         "vrcau/FlatRadar",
         "vrcau/Security-Check",
-        "vrcau/desktop-interaction"
+        "vrcau/desktop-interaction",
+        "vrcau/v320neo-fdmi-assets",
+        "vrcau/v320neo-fdmi"
     ]
 }
