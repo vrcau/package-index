@@ -14,7 +14,6 @@
         "vrcau/FlatRadar",
         "vrcau/Security-Check",
         "vrcau/desktop-interaction",
-        "vrcau/v320neo-fdmi-assets",
-        "vrcau/v320neo-fdmi"
+        "vrcau/v320neo-fdmi-assets"
     ]
 }
